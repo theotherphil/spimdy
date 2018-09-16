@@ -1,0 +1,10 @@
+[package]
+name = "spimdy"
+version = "0.1.0"
+authors = ["Phil Ellison <phil.j.ellison@gmail.com>"]
+
+[dependencies]
+rand = "0.5"
+rayon = "1.0"
+image = "*"
+packed_simd = "0.3.0"
